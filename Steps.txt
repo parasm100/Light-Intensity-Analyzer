@@ -1,0 +1,11 @@
+Steps :
+
+1. Circuit Diagram :
+	The circuit (including LDR, Resistor ) was made on BOLT . The BOLT was connected to the laptop via a cable and code was uploaded on BOLT.
+
+2. Plotting real-time graphs using ThingSpeak
+	The graphs of (intensity VS time) and (light-temperature) curves were plotted through Thingspeak.
+
+3. Triggering on Twitter
+	A tweeter triggering was also done.
+	A post is posted on Twitter every time it sees the intensity of light crossing a certain limit.
